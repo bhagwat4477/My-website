@@ -44,3 +44,10 @@ body.dark h1,
 body.dark a {
   color: lightblue;
 }
+nav {
+  display: flex;
+  gap: 20px;
+  justify-content: center;
+  padding: 10px 0;
+  border-bottom: 2px solid lightgray;
+}
