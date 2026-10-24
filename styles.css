@@ -35,3 +35,12 @@ img {
   max-width: 100%;
   border-radius: 8px;
 }
+body.dark {
+  background-color: #121212;
+  color: #eeeeee;
+}
+
+body.dark h1,
+body.dark a {
+  color: lightblue;
+}
