@@ -1,6 +1,10 @@
 body {
   background-color: white;
   font-family: Arial, sans-serif;
+  max-width: 700px;
+  margin: 40px auto;
+  padding: 0 20px;
+  line-height: 1.6;
 }
 
 h1 {
@@ -15,11 +19,6 @@ p {
 .highlight {
   color: tomato;
   font-weight: bold;
-body {
-  max-width: 700px;
-  margin: 40px auto;
-  padding: 0 20px;
-  line-height: 1.6;
 }
 
 a {
@@ -31,5 +30,4 @@ a {
 a:hover {
   color: tomato;
   text-decoration: underline;
-}
 }
