@@ -12,9 +12,3 @@ button.onclick = function () {
     message.textContent = "You clicked " + count + " times.";
   }
 };
-
-const themeButton = document.getElementById("themeButton");
-
-themeButton.onclick = function () {
-  document.body.classList.toggle("dark");
-};
